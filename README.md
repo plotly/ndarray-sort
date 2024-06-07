@@ -2,6 +2,13 @@ ndarray-sort
 ============
 Sorts [ndarrays](https://github.com/mikolalysenko/ndarray) in place using a dual pivot quick sort.
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
+
 ## Example
 
 ```javascript
